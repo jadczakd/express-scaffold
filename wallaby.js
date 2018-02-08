@@ -31,7 +31,7 @@ module.exports = function (wallaby) {
     testFramework: 'mocha',
     
     setup: function (w) {
-      var server = require('./src/index');
+      var server = require('./src/server');
       var chai = require('chai');
       var chaiHttp = require('chai-http');
       var db = require('./src/config/db');

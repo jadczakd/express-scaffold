@@ -1,7 +1,7 @@
 import chai, { assert, expect } from 'chai'
 import chaiHttp from 'chai-http'
 import db from '../config/db'
-import server from '../index'
+import server from '../server'
 import config from '../config'
 import models from '../models'
 
