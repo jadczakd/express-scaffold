@@ -29,7 +29,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "dotenv": "^4.0.0",
     "eslint": "^4.9.0",
-    "@std/esm": "^0.20.0",
+    "@std/esm": "^0.26.0",
     "babel-preset-env": "^1.6.1",
     "chai": "^4.1.2",
     "chai-http": "^3.0.0",
