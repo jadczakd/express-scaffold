@@ -27,7 +27,7 @@
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "dotenv": "^4.0.0",
+    "dotenv": "^8.1.0",
     "eslint": "^4.9.0",
     "@std/esm": "^0.26.0",
     "babel-preset-env": "^1.6.1",
